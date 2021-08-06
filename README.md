@@ -1,0 +1,2 @@
+# BottomNavigationView
+学习使用Navigation和viewmodel
